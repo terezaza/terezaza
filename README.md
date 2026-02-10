@@ -27,7 +27,10 @@ Here are some ideas to get you started:
 ---
 
 #### 🌱 ABOUT
-Currently pursuing a master's degree at BUT FIT. Always seeking opportunities to develop my skills and learn something new!
+
+- 💻 pursuing a master's degree at Brno University of Technology, Faculty of Information Technology
+- 📌 interested in the field of embedded development, IoT and machine learning
+- ⛵ passionate about sailing, travelling, skiing and tinkering
 
 ---
 
