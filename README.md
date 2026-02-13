@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/terezaza">
-    <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tetereza&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117" />
+    <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=terezaza&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117" />
   </a>
 </p>
 
